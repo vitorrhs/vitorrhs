@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vitorrhs
-- 👀 I’m interested in aprender Java
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning programming logic
 - 💞️ I’m looking to collaborat em free projects in order to gain experiences
 - 📫 How to reach me vitorsurf95@icloud.com or linkedin https://www.linkedin.com/in/vitor-h-santos
